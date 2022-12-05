@@ -1,0 +1,9 @@
+tmp/
+
+*_old
+
+*_backup
+
+Thumba_db
+
+.DS_Store
